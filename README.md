@@ -34,25 +34,25 @@ We will use the JavaScript and the D3.js library to retrieve the coordinates and
 
 ### Results
 
-#### Earthquakes - Street Layer
+#### Earthquakes with Faultlines - Street Layer
 
 ![Streets_Earthquakes](https://user-images.githubusercontent.com/67847583/126409065-8724af48-b0d5-4251-aa9f-ffa74d963594.png)
 ![Streets_MajorEarthquakes](https://user-images.githubusercontent.com/67847583/126409072-7cfd4c02-2076-4e81-be52-cce690bc3332.png)
 
-#### Earthquakes - Satellite Layer
+#### Earthquakes with Faultlines- Satellite Layer
 
 ![Satellite_Earthquakes](https://user-images.githubusercontent.com/67847583/126409234-834872ae-ab92-4187-84d1-2c2b6948e789.png)
 ![Satellite_MajorEarthquakes](https://user-images.githubusercontent.com/67847583/126409248-9667d542-15ab-430e-b59c-625680938f91.png)
 
 
 
-#### Earthquakes - Dark Layer
+#### Earthquakes with Faultlines - Dark Layer
 
 ![Dark_MajorEarthquakes](https://user-images.githubusercontent.com/67847583/126409295-92e054fb-8b3a-4885-b5e3-056e65ea3a88.png)
 ![Dark_Earthquakes](https://user-images.githubusercontent.com/67847583/126409301-bfc1dede-85b5-476b-98be-64e38c8262b6.png)
 
 
-#### All Earthquakes - Satellite Layer
+#### All Earthquakes with Faultlines - Satellite Layer
 
 ![Satelitte_AllEarthquakes](https://user-images.githubusercontent.com/67847583/126409351-e6e51762-4b27-4966-83fc-0ae5cecfb930.png)
 
